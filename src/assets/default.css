@@ -1,0 +1,23 @@
+.pad {
+    padding-top: 20px;
+}
+.btn-white {
+    color: inherit;
+    background: white;
+    border: 1px solid #ccc;
+ }
+.form-control.error, input.error, textarea.error {
+  border: 1px solid #cc5965!important;
+}
+.error-warning {
+  color : #cc5965;
+}
+
+.alert>ul {
+  padding: 0;
+  list-style: none;
+}
+
+.task {
+    visibility: hidden;
+}

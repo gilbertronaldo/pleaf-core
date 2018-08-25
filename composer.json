@@ -1,0 +1,15 @@
+{
+    "name": "sts/pleaf-core",
+    "description": "PHP Leaf Core Library",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Ali Irawan",
+            "email": "boylevantz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "version": "1.0.0"
+}
+
